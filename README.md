@@ -1,8 +1,10 @@
 # Financial Analysis Power BI Dashboard
 
 ## Dashboard Preview
-![Dashboard Preview](link_to_image_of_dashboard)  
-*(Insert a screenshot of your dashboard here)*
+
+
+![Screenshot 2024-11-10 170729](https://github.com/user-attachments/assets/d62da325-5a00-4c76-9ae9-4d21efa2c885)
+
 
 
 
